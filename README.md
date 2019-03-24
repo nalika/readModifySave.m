@@ -1,2 +1,2 @@
-# readModifySave.m
+# readModifySave
 To modify filenames in a directory
